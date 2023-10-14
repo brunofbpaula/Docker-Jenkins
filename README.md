@@ -1,6 +1,8 @@
 # Docker-Jenkins
 
-Esse repositório contém um projeto de to-do list em Django, para usos gerais de automação de pipeline. Abaixo está o README original do projeto.
+Repositório de treinamento do curso da Alura 'Jenkins e Docker: Pipeline de entrega contínua'.
+
+Aqui há um projeto de to-do list em Django, para usos gerais de automação de pipeline. Abaixo está o README original do projeto.
 
 # django-todolist
 
